@@ -12,3 +12,6 @@ Musica: Golpe!
 
 Musica: Atibaia não é Nilo
 {{< youtube WRtw56IuWpA >}}
+
+spotify
+{{< spotify album 7CYoNow9uphuiIlxn38uSi >}}
